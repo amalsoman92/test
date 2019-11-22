@@ -8,6 +8,6 @@ $result = curl_exec($ch);
 $outputArray = json_decode($result);
 curl_close($ch);
 //print_r ($outputArray);
-echo "hai";
+echo "dev folder";
 echo PHP_OS;
 ?>
