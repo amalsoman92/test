@@ -9,4 +9,5 @@ $outputArray = json_decode($result);
 curl_close($ch);
 //print_r ($outputArray);
 echo PHP_OS;
+echo "check";
 ?>
